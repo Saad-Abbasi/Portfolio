@@ -1,0 +1,34 @@
+.bg-black
+{
+	background-color:black;
+}
+.font-div
+{
+	width:30%;
+}
+img{
+	width: 100%;
+	height: 67.5%;
+}
+a
+{
+	color: black;
+}
+.underline
+{
+	background-color:lightgray;
+	width: 210px;
+	height:3px;
+}
+.underline-big
+{
+	background-color:lightgray;
+	width: 280px;
+	height:3px;
+}
+.bg-graduate
+{
+	
+	text-shadow: yellow ;
+	color: black;
+}
